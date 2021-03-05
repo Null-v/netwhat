@@ -9,7 +9,7 @@ The program does'nt check:
 - Input validation;
 - incorrect netmask or/and network;
 
-The program does'nt calculate /31 netmask
+The program doesn't calculate /31 netmask
 
 ### How to
 
